@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{otavmacedo04@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Gmail Badge](https://img.shields.io/badge/-otavmacedo04@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:otavmacedo04@gmail.com)
 [![Linkedin: Otavio](https://img.shields.io/badge/-otavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otavio-augusto-macedo-neves-928ab22a1/)](https://www.linkedin.com/in/otavio-augusto-macedo-neves-928ab22a1/)<br><br>
 
 
